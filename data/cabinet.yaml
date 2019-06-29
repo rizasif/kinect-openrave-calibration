@@ -1,0 +1,8 @@
+# dimentions: [0.435, 0.714, 0.90]
+# dimentions: [0.90, 0.714, 0.435]
+markers: [2,3]
+marker_trans: [[0.0,0.61,0.2175], [0.0,0.61,0.2175]]
+marker_rot: [[-90.0,0.0,0.0], [-90.0,0.0,0.0]]
+name: cabinet
+sync: True
+# invert_x: True

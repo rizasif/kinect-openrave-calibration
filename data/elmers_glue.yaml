@@ -1,0 +1,5 @@
+markers: [0,1]
+marker_trans: [[0.0,-0.07285,0.0166], [0.0,-0.07285,0.0166]] #0.07285, 0.0166
+marker_rot: [[0.0,0.0,0.0], [0.0,0.0,0.0]]
+name: elmers_washable_no_run_school_glue
+sync: False
